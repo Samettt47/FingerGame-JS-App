@@ -1,0 +1,18 @@
+#myGuess ,#computerGuess{
+    width: 400px;
+    height: 400px;
+    float: left;
+    background-color: red;
+    margin-right: 20px;
+    background-repeat: no-repeat;
+    background-position: 100px 30px;
+}
+button{
+    position: absolute;
+    top: px;
+    margin: 10px;
+    float: right;
+}
+span {
+    margin: 10px;
+}
